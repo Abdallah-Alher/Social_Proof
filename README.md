@@ -72,5 +72,5 @@ La page est divisée en deux grandes sections :
 
    - Nom : ALHER MATOU Abdallah
    - Projet : Social Proof 
-   - Lien repos :
-   - Lien de la page : 
+   - Lien repos : https://github.com/Abdallah-Alher/Social_Proof.git
+   - Lien de la page : https://abdallah-alher.github.io/Social_Proof/
