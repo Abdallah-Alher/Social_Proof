@@ -72,16 +72,10 @@ body {
 
 /* Effet escalier inversé (dégressif) */
 .stars:nth-child(1) {
-  align-self: center;
   margin-left: 4rem;
 }
 .stars:nth-child(2) {
-  align-self: center;
   margin-left: 2rem;
-}
-.stars:nth-child(3) {
-  align-self: center;
-  margin-left: 0;
 }
 
 .stars:hover {
@@ -123,7 +117,7 @@ body {
   padding: 1.5rem;
   flex: 1;
   min-width: 300px;
-  transition: transform 0.3s, background-color 0.3s;
+  transition:0.3s;
 }
 
 .card:hover {
